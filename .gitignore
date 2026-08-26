@@ -1,0 +1,11 @@
+# local secrets - never commit your real API key
+config.json
+
+# python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# os junk
+Thumbs.db
+.DS_Store

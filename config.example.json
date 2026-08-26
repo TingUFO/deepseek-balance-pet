@@ -1,0 +1,10 @@
+{
+  "api_key": "",
+  "poll_seconds": 60,
+  "bubble_x": 137,
+  "bubble_y": 144,
+  "circles_x": 192,
+  "circles_y": 284,
+  "locked": true,
+  "scale": 1.0
+}
